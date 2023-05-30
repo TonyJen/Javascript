@@ -1,3 +1,3 @@
 # Javascript
 
-# This allows me to experiment with differnt javsscript play projects
+# This allows me to experiment with different javsscript play projects
